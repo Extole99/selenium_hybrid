@@ -72,6 +72,13 @@
 			<artifactId>ashot</artifactId>
 			<version>1.5.4</version> <!-- or latest version -->
 		</dependency>
+		
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.30</version> <!-- Latest as of now -->
+		</dependency>
+
 
 	</dependencies>
 	<build>
