@@ -1,0 +1,152 @@
+21:23:58.499 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+21:24:10.546 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+07:09:32.373 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+07:09:49.544 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+07:22:01.494 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+07:22:10.886 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+08:22:49.245 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+08:23:02.254 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+08:28:37.790 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+08:28:54.588 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+08:38:05.478 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+08:38:26.224 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+08:41:50.242 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+08:42:02.552 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+08:44:17.446 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+08:44:29.357 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+09:27:06.833 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+09:27:20.940 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+09:33:23.458 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+09:33:37.095 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+16:35:38.374 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+16:35:50.053 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+16:42:51.600 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+16:43:03.662 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+16:46:17.703 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+16:46:30.125 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+17:35:05.733 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: remote
+17:35:05.746 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+17:35:05.746 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+17:35:19.337 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+17:35:31.586 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+17:35:31.927 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: remote
+17:35:31.927 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+17:35:31.927 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+17:35:48.822 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: remote
+17:35:48.823 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+17:35:48.823 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: chrome
+17:43:23.942 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: remote
+17:43:23.952 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+17:43:23.952 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: edge
+17:43:35.347 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+17:43:47.657 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+17:43:49.248 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: remote
+17:43:49.249 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+17:43:49.249 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: edge
+17:44:09.002 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: remote
+17:44:09.002 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+17:44:09.002 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: edge
+17:45:29.689 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: remote
+17:45:29.693 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+17:45:29.693 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+17:45:39.779 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+17:45:52.271 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+17:45:52.876 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: remote
+17:45:52.877 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+17:45:52.877 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+17:46:08.051 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: remote
+17:46:08.051 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+17:46:08.051 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: chrome
+17:51:47.373 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: remote
+17:51:47.387 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+17:51:47.387 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+17:51:54.688 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: remote
+17:51:54.688 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+17:51:54.688 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+17:51:57.810 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: remote
+17:51:57.810 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+17:51:57.810 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: chrome
+19:52:00.233 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+19:52:00.255 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: Windows
+19:52:00.255 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+19:52:00.349 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+19:52:00.350 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: Windows
+19:52:00.351 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+19:54:14.343 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+19:54:14.351 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: Windows
+19:54:14.360 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+19:54:14.490 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+19:54:14.490 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: Windows
+19:54:14.490 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+20:14:35.313 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+20:14:35.318 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+20:14:35.318 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+20:14:35.318 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution mode : headless
+20:14:35.381 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+20:14:35.381 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+20:14:35.381 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+20:14:35.382 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution mode : headless
+20:14:35.408 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: local
+20:14:35.408 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+20:14:35.409 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: chrome
+20:14:35.409 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution mode : headless
+20:16:41.468 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+20:16:41.473 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+20:16:41.473 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+20:16:41.474 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution mode : headless
+20:16:41.543 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+20:16:41.543 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+20:16:41.543 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+20:16:41.544 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution mode : headless
+20:16:41.586 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: local
+20:16:41.587 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+20:16:41.588 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: chrome
+20:16:41.588 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution mode : headless
+20:20:07.993 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+20:20:07.998 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+20:20:07.998 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+20:20:07.998 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution mode : headless
+20:20:29.783 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+20:20:29.783 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+20:20:29.783 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+20:20:29.784 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution mode : headless
+20:20:35.562 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+20:20:44.489 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+20:20:44.977 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: local
+20:20:44.977 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+20:20:44.977 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: chrome
+20:20:44.977 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution mode : headless
+20:22:54.228 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+20:22:54.240 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+20:22:54.240 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+20:22:54.240 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution mode : headless
+20:23:18.635 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+20:23:18.638 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+20:23:18.638 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+20:23:18.639 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution mode : headless
+20:23:26.120 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+20:23:37.659 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+20:23:39.883 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution environment: local
+20:23:39.884 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Operating System: windows
+20:23:39.884 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Browser: chrome
+20:23:39.884 [main] INFO  com.selenium.hybrid.testrepo.Verify_AddProduct_Cart_Page - Execution mode : headless
+20:25:49.950 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+20:25:49.957 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+20:25:49.957 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+20:25:49.958 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution mode : headless
+20:26:15.686 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+20:26:15.686 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+20:26:15.688 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+20:26:15.689 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution mode : headless
+20:26:23.870 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+20:26:35.635 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
+20:30:30.573 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution environment: local
+20:30:30.580 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Operating System: windows
+20:30:30.580 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Browser: chrome
+20:30:30.581 [main] INFO  com.selenium.hybrid.testrepo.Verify_Login_Page - Execution mode : headless
+20:30:49.922 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution environment: local
+20:30:49.922 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Operating System: windows
+20:30:49.923 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Browser: chrome
+20:30:49.923 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - Execution mode : headless
+20:30:55.941 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Running Register Page Test ***************
+20:31:06.625 [main] INFO  com.selenium.hybrid.testrepo.Verify_Register_Page - ************** Test Passed ***************
